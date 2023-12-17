@@ -15,9 +15,9 @@ import com.example.bookish_octo_fiesta.ui.theme.BookishoctofiestaTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        var kaas="kaas"
-        var kaas2="kaas2"
-        var kaas3="kaas3"
+        var kaas = "kaas"
+        var kaas2 = "kaas2"
+        var kaas3 = "kaas3"
 
         setContent {
             BookishoctofiestaTheme {
