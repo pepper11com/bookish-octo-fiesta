@@ -1,4 +1,4 @@
-package com.example.bookish_octo_fiesta.ui.theme
+package com.example.fiesta.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

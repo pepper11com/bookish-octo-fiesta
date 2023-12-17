@@ -1,4 +1,4 @@
-package com.example.bookish_octo_fiesta
+package com.example.fiesta
 
 import org.junit.Test
 
