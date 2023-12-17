@@ -15,6 +15,9 @@ import com.example.bookish_octo_fiesta.ui.theme.BookishoctofiestaTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        var cheese = 1
+        var chees2e = 1
+        var cheese3 = 1
         setContent {
             BookishoctofiestaTheme {
                 // A surface container using the 'background' color from the theme
